@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-This project focuses on analyzing a dataset of over 20,000 sales transactions from an Amazon-like e-commerce platform. The main goal is to explore customer behavior, product performance, and overall sales trends using **PostgreSQL**.
+This project focuses on analyzing a dataset of over 20,000 sales transactions from an Amazon-like e-commerce platform. The main goal is to explore customer behavior, product performance, and overall sales trends using **MySQL**.
 
 The work involves creating complex SQL queries to address real-world business scenarios such as revenue analysis, customer segmentation, inventory monitoring, and sales forecasting. Data cleaning, handling missing values, and ensuring accurate results are key parts of the process.
 
