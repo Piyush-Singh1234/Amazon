@@ -1,4 +1,6 @@
+
 # Amazon USA Sales Analysis Project
+
 
 ---
 
@@ -176,8 +178,3 @@ By completing this project, I gained the ability to:
 
 This project showcases advanced SQL skills and demonstrates the ability to solve operational challenges in e-commerce. From inventory optimization to customer retention analysis, the work highlights practical insights derived from structured query techniques.
 
-**ERD Diagram:**
-
-![ERD](https://github.com/najirh/amazon_usa_project5/blob/main/erd.png)
-
----
